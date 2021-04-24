@@ -1,6 +1,5 @@
 import os
 from flask_sqlalchemy import SQLAlchemy
-from sqlalchemy.ext.automap import automap_base
 
 db = SQLAlchemy()
 base_path = os.path.dirname(__file__)

@@ -6,7 +6,6 @@ This repository contains the code to create a frequency based autocomplete syste
 |    |--db
 |    |--routes
 |--data   
-|    |--conversations.json
 |    |--convo.text
 |--notebooks
 |--src
