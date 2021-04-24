@@ -35,3 +35,5 @@ If you want to run this project locally, then make sure you carry out the follow
 7. To get suggestions use query parameters as shown below:
    
    `http://127.0.0.1:5000/api/query?string=word1,word2,word3`
+
+![](intro.gif)
